@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/pcty/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/pcty/"
   ]
 }
